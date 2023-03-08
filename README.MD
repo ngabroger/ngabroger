@@ -1,6 +1,5 @@
 [![@rogersimanjuntak's Holopin board](https://holopin.me/rogersimanjuntak)](https://holopin.io/@rogersimanjuntak)
 
-<br>
 <h2>Hello Welcome To My Github</h2>
 <br>
 <h4>Check out My Website</h4>
