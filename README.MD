@@ -1,5 +1,5 @@
 [![@rogersimanjuntak's Holopin board](https://holopin.me/rogersimanjuntak)](https://holopin.io/@rogersimanjuntak)
-<h2>Welcome To My Github</h2>
+<h2>Welcome To My Github</h2> <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngabroger&label=Profile%20views&color=0e75b6&style=flat" alt="ngabroger" /> </p>
 <p>👩‍💻 Technology Enthusiast | 🌐 Programming Enthusiast | 📚 Lifelong Learner
 
 🔍 About Me:
