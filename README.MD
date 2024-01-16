@@ -1,6 +1,7 @@
 # Welcome To My Github 👋
 
-[![Holopin Board](https://holopin.me/rogersimanjuntak)](https://holopin.io/@rogersimanjuntak)
+<img src="https://github.com/ngabroger/ngabroger/blob/main/project.gif" alt="Holopin Board" width="1200" height="400">
+
 
 ## About Me
 
