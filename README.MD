@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 100px; font-weight: bold;">
-  Welcome To My Github 👋
-</p>
+<center>
+  <h1>Welcome To My Github 👋</h1>
+</center>
 <img src="https://github.com/ngabroger/ngabroger/blob/main/project.gif" alt="Holopin Board" width="1200" height="400">
 
 
