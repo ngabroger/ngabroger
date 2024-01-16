@@ -54,4 +54,4 @@ I'm always open to connecting with fellow tech enthusiasts, developers, and anyo
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngabroger" alt="ngabroger" /></p>
+<p align="center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngabroger&theme=ambient_gradient" alt="ngabroger" /></p>
