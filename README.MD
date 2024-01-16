@@ -35,7 +35,7 @@ I'm always open to connecting with fellow tech enthusiasts, developers, and anyo
 
 ## Check out My Website
 
-![(https://ngabroger.github.io/)]({https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white})
+![images]({https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white})
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngabroger&show_icons=true&locale=en&layout=compact" alt="ngabroger" /></p>
