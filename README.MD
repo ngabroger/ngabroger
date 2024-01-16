@@ -1,6 +1,6 @@
 # Welcome To My Github 👋
 
-<img src="https://github.com/ngabroger/ngabroger/blob/main/project.gif" alt="Holopin Board" width="400" height="300">
+<img src="https://github.com/ngabroger/ngabroger/blob/main/project.gif" alt="Holopin Board" width="1000" height="300">
 
 
 ## About Me
