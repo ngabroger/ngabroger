@@ -1,6 +1,6 @@
 # Welcome To My Github 👋
 
-[![Holopin Board](https://github.com/ngabroger/ngabroger/blob/main/project.gif)]
+![Holopin Board](https://github.com/ngabroger/ngabroger/blob/main/project.gif)
 
 ## About Me
 
