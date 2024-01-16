@@ -1,5 +1,5 @@
 <center>
-  <h1>Welcome To My Github 👋</h1>
+  <h1 align="center">Welcome To My Github 👋</h1>
 </center>
 <img src="https://github.com/ngabroger/ngabroger/blob/main/project.gif" alt="Holopin Board" width="1200" height="400">
 
