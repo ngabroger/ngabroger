@@ -48,7 +48,7 @@ I'm always open to connecting with fellow tech enthusiasts, developers, and anyo
 
 <p  align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngabroger&show_icons=true&theme=ambient_gradient" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngabroger&hide_progress=true&theme=ambient_gradient" alt="ngabroger" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngabroger&hide_progress=true&theme=ambient_gradient" alt="ngabroger" width="1200" height="400">
 </p>
 
 
