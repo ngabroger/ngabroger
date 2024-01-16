@@ -47,7 +47,8 @@ I'm always open to connecting with fellow tech enthusiasts, developers, and anyo
 
 
 <p  align="center"> 
-![Ngab Roger GitHub stats](https://github-readme-stats.vercel.app/api?username=ngabroger\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngabroger\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff" alt="ngabroger" />
+
 </p>
 
 
