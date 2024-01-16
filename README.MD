@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 24px; font-weight: bold;">
+<p align="center" style="font-size: 100px; font-weight: bold;">
   Welcome To My Github 👋
 </p>
 <img src="https://github.com/ngabroger/ngabroger/blob/main/project.gif" alt="Holopin Board" width="1200" height="400">
