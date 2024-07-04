@@ -49,7 +49,7 @@ I firmly believe that knowledge is a never-ending journey. I'm committed to cont
 I'm always open to connecting with fellow tech enthusiasts, developers, and anyone who shares a passion for the digital realm. Let's collaborate, learn, and build the future together!
 
 <div align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=p4sdejv31yymv680pok8wey9e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=p4sdejv31yymv680pok8wey9e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"/>
 </div>
 
 <p  align="center"> 
