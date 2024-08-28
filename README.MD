@@ -2,7 +2,7 @@
   <h1 align="center">Welcome To My Github 👋</h1>
 
 <img src="alahbg.png" alt="gambar">
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="gambar">
 ### 🔍 About Me:
 
 <p align="center">
