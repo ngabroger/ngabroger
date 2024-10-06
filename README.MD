@@ -9,9 +9,7 @@
 
 
 <p align="center">
-<a href="https://ngabroger.github.io">
-    <img src="https://camo.githubusercontent.com/58b8b41ca6841343e98a68ac4b98df3c22be652e386291544ebaf90094ff8835/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3235354536333f7374796c653d666f722d7468652d6261646765266c6f676f3d41626f75742e6d65266c6f676f436f6c6f723d7768697465" alt="Holopin Board">
-  </a>
+
 </p>
 
 👩‍💻 Technology Enthusiast | 🌐 Programming Enthusiast | 📚 Lifelong Learner
