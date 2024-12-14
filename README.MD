@@ -32,8 +32,8 @@
 ![ngabroger's snake](https://raw.githubusercontent.com/ngabroger/ngabroger/5739928f0c41818e88c4162cd70b091b647dce64/github-user-contribution.svg)
 
 ![ngabroger's Stats](https://github-readme-stats.vercel.app/api?username=ngabroger&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-![ngabroger's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngabroger&theme=dracula&hide_border=false)
 ![ngabroger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngabroger&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![ngabroger's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngabroger&theme=dracula&hide_border=false)
 
 
 ![ngabroger's footer](https://github.com/ngabroger/ngabroger/blob/main/github-footer-image.png)
