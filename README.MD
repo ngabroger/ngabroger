@@ -1,53 +1,28 @@
+<h1 align="center">Hi 👋, I'm Roger Simanjuntak</h1>
+<h3 align="center">Just to Be Fullstack All Language Programming</h3>
 
-  <h1 align="center">Welcome To My Github 👋</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngabroger" alt="ngabroger" /></a> </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" alt="gambar">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="gambar">
+- 🌱 I’m currently learning **kotlin, flutter , laravel**
 
-### 🔎 About me:
+- 👨‍💻 All of my projects are available at [ngabroger.github.io](ngabroger.github.io)
 
+- 💬 Ask me about **dart ,kotlin , android dev**
 
+- 📫 How to reach me **roger.simanjuntak.21@gmail.com**
 
-<p align="center">
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ngabroger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngabroger" height="30" width="40" /></a>
+<a href="https://fb.com/flyrog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="flyrog" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ngabroger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ngabroger" height="30" width="40" /></a>
 </p>
 
-👩‍💻 Technology Enthusiast | 🌐 Programming Enthusiast | 📚 Lifelong Learner
-I'm a passionate individual thriving at the intersection of technology and creativity. With a deep fascination for the digital world, I constantly seek to unravel the mysteries of programming languages and harness the power of technology to shape the future.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### 💡 My Journey:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngabroger&show_icons=true&locale=en&layout=compact" alt="ngabroger" /></p>
 
-My journey into the world of technology and programming began as a curious exploration and has evolved into a lifelong passion. From my first lines of code to my ongoing quest to master multiple programming languages, I find joy in the art of problem-solving and the endless possibilities that coding offers.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngabroger&show_icons=true&locale=en" alt="ngabroger" /></p>
 
-### 🚀 What Drives Me:
-
-My motivation stems from the belief that technology is a catalyst for innovation and change. I see it as a tool to solve real-world problems, from developing cutting-edge software applications to building the technologies of tomorrow.
-
-### 🌟 Lifelong Learning:
-
-I firmly believe that knowledge is a never-ending journey. I'm committed to continuous learning and staying updated with the latest developments in the tech world. Whether it's diving into a new programming language, exploring emerging technologies, or collaborating with like-minded individuals, I'm always eager to expand my horizons.
-
-## 📌 Key Interests:
-
-- Programming Languages (Python, Java, JavaScript, Dart, and more)
-- Web Development
-- Android Development
-
-## 📧 Let's Connect:
-
-I'm always open to connecting with fellow tech enthusiasts, developers, and anyone who shares a passion for the digital realm. Let's collaborate, learn, and build the future together!
-
-<div align="center">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=p4sdejv31yymv680pok8wey9e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile"/>
-</div>
-
-<p  align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngabroger&show_icons=true&theme=ambient_gradient" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngabroger&hide_progress=true&theme=ambient_gradient" alt="ngabroger" width="300" height="200">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngabroger&theme=ambient_gradient" alt="ngabroger" />
-</p>
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngabroger&" alt="ngabroger" /></p>
