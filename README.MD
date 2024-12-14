@@ -2,7 +2,7 @@
 <h3 align="center">Just to Be Fullstack All Language Programming</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngabroger" alt="ngabroger" /></a> </p>
-<p align="center">&nbsp;<img align="center" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="ngabroger" /></p>
+<p align="center">&nbsp;<img align="center" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxODg1MjMsIm5iZiI6MTczNDE4ODIyMywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE0NTcwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNmMzU1NzcwMmM1NWI4ZjhhYTg0MjgyYzQ0MjM3NTRjNDI0ZGZiZDA5YzBjYTAwZjA4ZDlmNmRjZGM5ODYzNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Wf53IbevmyT_E_4X8ZjhbCujWoeX4GEW2l9DTP8WgkM" alt="ngabroger" /></p>
 
 
 - 🌱 I’m currently learning **kotlin, flutter , laravel**
