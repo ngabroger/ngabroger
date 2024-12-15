@@ -28,7 +28,6 @@
 
 
 
-
 ![ngabroger's snake](https://raw.githubusercontent.com/ngabroger/ngabroger/5739928f0c41818e88c4162cd70b091b647dce64/github-user-contribution.svg)
 
 ![ngabroger's Stats](https://github-readme-stats.vercel.app/api?username=ngabroger&theme=dracula&show_icons=true&hide_border=false&count_private=true)
@@ -36,4 +35,10 @@
 ![ngabroger's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngabroger&theme=dracula&hide_border=false)
 
 
+<h2></h2>
+
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ngabroger&color=red"></img></p>
+
+
 ![ngabroger's footer](https://github.com/ngabroger/ngabroger/blob/main/github-footer-image.png)
+
