@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/ngabroger/ngabroger/refs/heads/main/github-header-image.png" alt="ngabroger" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngabroger" alt="ngabroger" /></a> </p>
-<p align="center">&nbsp;<img align="center" src="https://github.com/ngabroger/ngabroger/blob/main/project.gif?raw=true" alt="ngabroger" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github.com/ngabroger/ngabroger/blob/main/thumbnail-real.gif?raw=true" alt="ngabroger" /></p>
 
 <img align="right" width="320px" src="https://private-user-images.githubusercontent.com/74038190/240825300-17f8a48d-4ab3-4e58-bd5a-bf181f4c3d90.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxODg1MjMsIm5iZiI6MTczNDE4ODIyMywicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzMDAtMTdmOGE0OGQtNGFiMy00ZTU4LWJkNWEtYmYxODFmNGMzZDkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE0NTcwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmYTkxY2UzYzI2NTk0ZTE0NTNmMmJlYWQ2Yzg0OGExMTY1ZTM1NTdkZjYzYzZiNDNkMzU0NDBkMTMyY2VjNGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wVioRRw9pEmZVwMe_2B1uHZpTlb-BHp8RvmiZj_uQow"> </img>
 
