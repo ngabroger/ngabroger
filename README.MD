@@ -1,10 +1,22 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/ngabroger/ngabroger/refs/heads/main/github-header-image.png" alt="ngabroger" /> </p>
+<p align="center"> <img  src="https://raw.githubusercontent.com/ngabroger/ngabroger/refs/heads/main/github-header-image.png" alt="ngabroger" /> </p>
+
+<h2></h2>
+
+<h3 align="center">✨Achivement:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngabroger&theme=monokai" alt="ngabroger" /></a> </p>
-<p align="center">&nbsp;<img align="center" src="https://github.com/ngabroger/ngabroger/blob/main/thumbnail-real.gif?raw=true" alt="ngabroger" /></p>
+
+<h2></h2>
+
+<p align="center">&nbsp;<img align="center" style="border-radius:5%" src="https://github.com/ngabroger/ngabroger/blob/main/thumbnail-real.gif?raw=true" alt="ngabroger" /></p>
+
+<h2></h2>
+
 
 <img align="right" width="320px" src="https://private-user-images.githubusercontent.com/74038190/240825300-17f8a48d-4ab3-4e58-bd5a-bf181f4c3d90.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQxODg1MjMsIm5iZiI6MTczNDE4ODIyMywicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzMDAtMTdmOGE0OGQtNGFiMy00ZTU4LWJkNWEtYmYxODFmNGMzZDkwLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE0NTcwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJmYTkxY2UzYzI2NTk0ZTE0NTNmMmJlYWQ2Yzg0OGExMTY1ZTM1NTdkZjYzYzZiNDNkMzU0NDBkMTMyY2VjNGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.wVioRRw9pEmZVwMe_2B1uHZpTlb-BHp8RvmiZj_uQow"> </img>
 
+
+<h3 align="left">🔎About Me:</h3>
 
 - 🌱 I’m currently learning **kotlin, flutter , laravel**
 
@@ -15,7 +27,7 @@
 - 📫 How to reach me **roger.simanjuntak.21@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ngabroger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ngabroger" height="30" width="40" /></a>
 <a href="https://fb.com/flyrog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="flyrog" height="30" width="40" /></a>
@@ -23,7 +35,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">📖 Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
@@ -40,5 +52,5 @@
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ngabroger&color=red"></img></p>
 
 
-![ngabroger's footer](https://github.com/ngabroger/ngabroger/blob/main/github-footer-image.png)
+<p align="center"> <img  src="https://raw.githubusercontent.com/ngabroger/ngabroger/refs/heads/main/github-footer-image.png" alt="ngabroger" /> </p>
 
