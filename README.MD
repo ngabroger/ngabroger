@@ -1,16 +1,13 @@
 <p align="center"> <img  src="https://raw.githubusercontent.com/ngabroger/ngabroger/refs/heads/main/github-header-image.png" alt="ngabroger" /> </p>
 
-<h2></h2>
+
 
 <h3 align="center">✨Achivement:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngabroger&theme=monokai" alt="ngabroger" /></a> </p>
 
-<h2></h2>
 
 <p align="center">&nbsp;<img align="center" style="border-radius:5%" src="https://github.com/ngabroger/ngabroger/blob/main/thumbnail-real.gif?raw=true" alt="ngabroger" /></p>
-
-<h2></h2>
 
 
 <img align="right" width="320px" style="border-radius:50%" src="https://github.com/ngabroger/ngabroger/blob/main/gif_phone.gif?raw=true"> </img>
@@ -46,10 +43,6 @@
 ![ngabroger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngabroger&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 ![ngabroger's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ngabroger&theme=dracula&hide_border=false)
 
-
-<h2></h2>
-
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ngabroger&color=red"></img></p>
-
 
 <p align="center"> <img  src="https://raw.githubusercontent.com/ngabroger/ngabroger/refs/heads/main/github-footer-image.png" alt="ngabroger" /> </p>
