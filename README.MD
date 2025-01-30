@@ -15,7 +15,7 @@
 
 <h3 align="left">🔎About Me:</h3>
 
-- 🌱 I’m currently learning **kotlin, flutter , laravel**
+- 🌱 I’m currently learning **REACT**
 
 - 👨‍💻 All of my projects are available at [ngabroger.github.io](ngabroger.github.io)
 
