@@ -5,8 +5,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngabroger&theme=monokai" alt="ngabroger" /></a> </p>
 <p align="center">&nbsp;<img align="center" style="border-radius:5%" src="https://github.com/ngabroger/ngabroger/blob/main/thumbnail-real.gif?raw=true" alt="ngabroger" /></p>
 <img align="right" width="320px" style="border-radius:50%" src="https://github.com/ngabroger/ngabroger/blob/main/gif_phone.gif?raw=true"> </img>
-
-
 <h3 align="left">🔎About Me:</h3>
 
 - 🌱 I’m currently learning **REACT,FLUTTER**
