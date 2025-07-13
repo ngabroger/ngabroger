@@ -7,7 +7,7 @@
 <img align="right" width="320px" style="border-radius:50%" src="https://github.com/ngabroger/ngabroger/blob/main/gif_phone.gif?raw=true"> </img>
 <h3 align="left">🔎About Me:</h3>
 
-- 🌱 I’m currently learning **REACT,FLUTTER**
+- 🌱 I’m currently learning **LARAVEL**
 
 - 👨‍💻 All of my projects are available at [ngabroger.github.io](ngabroger.github.io)
 
